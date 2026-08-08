@@ -1,8 +1,8 @@
 View the Wasm Demo: https://ozz-animation-switcher-opengl-sdl3.vercel.app
 
-[Static EXE](https://www.dropbox.com/scl/fi/j7wququgbiwl638kvsvbu/ozz-animation-switcher-opengl-sdl3-exe.zip?rlkey=th9k6vhpuotz8bum2m2h963np&st=wqha551l&raw=1) (12.8 MB), [VirusTotal (1/67)](https://www.virustotal.com/gui/file/b736032341b8072d81b3298459222927d6c69d1fc906086246b1cf068f0894bf)
+[Static EXE](https://www.dropbox.com/scl/fi/j7wququgbiwl638kvsvbu/ozz-animation-switcher-opengl-sdl3-exe.zip?rlkey=th9k6vhpuotz8bum2m2h963np&st=wqha551l&raw=1), [VirusTotal (1/67)](https://www.virustotal.com/gui/file/c7844f539f56115ed15661665e6f9bc4242957fe1ae92c055baa1b1dafe7e1de)
 
-Android:
+Android Screenshot (made with [scrcpy](https://github.com/Genymobile/scrcpy/releases)):
 
 <p>
     <p align="center">
